@@ -1,2 +1,7 @@
-# Tender-Management
-Tender Management Detals
+## Tender Management
+
+Tender Details
+
+#### License
+
+MIT
